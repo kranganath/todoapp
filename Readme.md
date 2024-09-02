@@ -10,7 +10,7 @@ The SPA with 5 pages (routes):
 - A Dashboard page which shows authenticated/registered user todos and actions
 - Notfound page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 
 
